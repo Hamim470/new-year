@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(255, 247, 237);
+    font-family: Merriweather;
+    width:1370px;
+    margin:0px auto;
+}
+header{
+    border-radius: 16px;
+    background-image:radial-gradient(rgba(0, 0, 0, 0.454),rgba(255, 255, 255, 0)), url("../resources/Banner\ Image.png");
+
+    width: 1320px;
+    height: 600px;
+    text-align: center;
+    align-content: center;
+}
+.t1{
+    color: rgb(255, 255, 255);
+    font-size: 32px;
+    font-weight: 400;
+    margin-top: 140px;
+}
+.t2{
+    color: rgb(255, 255, 255);
+    font-size: 72px;
+    font-weight: 900;
+    margin:16px 344px 117px 344px;
+}
+
+
+/* main */
+.off{
+    color: rgb(255, 0, 0);
+    font-size: 88px;
+    font-weight: 700;
+    text-align: center;
+}
