@@ -6,7 +6,7 @@ body{
 }
 header{
     border-radius: 16px;
-    background-image:radial-gradient(rgba(0, 0, 0, 0.454),rgba(255, 255, 255, 0)), url("../resources/Banner\ Image.png");
+    background-image:radial-gradient(rgba(0, 0, 0, 0.454),rgba(255, 255, 255, 0)), url("resources/Banner\ Image.png");
 
     width: 1320px;
     height: 600px;
