@@ -308,6 +308,7 @@ main{
     height: 616px;
     margin-top: 120px;
     text-align: center;
+    margin-bottom: 0px;
 }
 .s7-i{
     margin: 80px 588px 40px 588px;
@@ -326,4 +327,86 @@ main{
     width: 896px;
     height: 64px;
     margin:22px auto;
+}
+.email{
+    border-radius:50px 0px 0px 50px;
+    background: rgb(255, 255, 255);
+    width: 648px;
+    height: 72px;
+    color: rgba(7, 2, 17, 0.3);
+    font-size: 18px;
+    font-weight: 400;
+    border: 0;
+    text-align: center;
+    margin-top: 20px;
+}
+.subs{
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-weight: 600;
+    text-align: center;
+    width: 98px;
+    height: 24px;
+    border-radius: 0px 50px 50px 0px;
+    background: rgb(255, 0, 0);
+    width: 210px;
+    height: 72px;
+    border:0;
+    margin-top: 20px;
+}
+
+footer{
+    width: 1600px;
+    height: 679px;
+    background: rgb(7, 2, 17);
+    margin-top: 120px;
+}
+.a{
+    color: white;
+    display: flex;
+    gap:560px;
+    padding-top: 120px;
+    padding-left: 140px;
+}
+.a1t{
+    color: rgb(255, 255, 255);
+    font-size: 24px;
+    font-weight: 500;
+    width: 375px;
+    height: 80px;
+}
+.a21{
+    display: inline;
+}
+.s1{
+    margin-right: 16px;
+}
+.at{
+    color: rgb(255, 255, 255);
+    font-size: 24px;
+    font-weight: 500;
+}
+hr{
+    margin:50px 140px 50px 140px;
+}
+.div-image{
+    width:1600px;
+    padding-left: 600px;
+}
+.d-i{
+    width: 64px;
+    height: 64px;
+    margin-left: 24px;
+}
+.flp{
+    color: rgb(255, 255, 255);
+    font-size: 24px;
+    font-weight: 500;
+}
+.f-last{
+    display: flex;
+    gap:880px;
+    margin-left: 140px;
+    margin-bottom:120px;
+    margin-top: 0px;
 }
